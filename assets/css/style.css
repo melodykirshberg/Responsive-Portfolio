@@ -58,3 +58,13 @@ h1 {
     margin: 10px 10px 10px 10px;
     
 }
+
+/*-------------------------------------footer*/
+.footer {
+    position: fixed;
+    width: 100%;
+    height: 50px;
+    background: #666666;
+    border-top: solid 8px #4aaaa5;
+    margin-top: 100px;
+  }
