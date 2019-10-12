@@ -30,12 +30,19 @@ h1 {
     font-size: 27px;
 }
 
+/*-----------------------------------------------------------body*/
 body {
     background-image: url("../images/back.png");
 }
 
-/*--------------------------------------background and border for entire row*/
 
+.form {
+    display:block;
+    margin: 5px 5px 5px 5px'
+}
+
+
+/*--------------------------------------background and border for entire row*/
 .m-sec {
     font-family: Arial, Helvetica, sans-serif;
     border: 2px #dddddd solid;
