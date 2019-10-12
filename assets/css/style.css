@@ -64,10 +64,10 @@ body {
 }
 
 /*-------------------------------------footer*/
-.footer {
-    position: fixed;
+.foot {
     width: 100%;
     height: 50px;
+    text-align: center;
     background: #666666;
     border-top: solid 8px #4aaaa5;
     margin-top: 100px;
