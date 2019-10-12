@@ -3,7 +3,7 @@
 ## Table of Contents
 * [Installation](#installation)
 * [Description](#description)
-* [Credits](#credits)
+* [Technologies-Libraries](#technologies-libraries)
 * [License](#license)
 
 ## Installation
@@ -12,8 +12,10 @@
 * Open in Visual Studio to build and run.
 
 ## Description
+A mobile responsive portfolio to showcase my coding work and let visitors know a little bit about me.
 
-## Credits
+### Technologies-Libraries
+- [Bootstrap](https://getbootstrap.com/) - CSS Framework
 
 ### License 
 [MIT](https://choosealicense.com/licenses/mit/)
