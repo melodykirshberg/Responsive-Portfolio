@@ -29,13 +29,25 @@ h1 {
     margin-top: 17px;
     font-size: 27px;
 }
+/*------------------------------------------------header 3*/
+h3 {
+    position: relative;
+    color: white;
+    line-height: 50px;
+    background-color:#4aaaa5;
+    text-align:center;
+    height: 50px;
+    bottom: 110px;
+    width: 200px;
+    margin-left: 40px;
+}
 
 /*-----------------------------------------------------------body*/
 body {
     background-image: url("../images/back.png");
 }
 
-
+/*-----------------------------------------------------------form*/
 .form {
     display:block;
     margin: 5px 5px 5px 5px'
@@ -56,20 +68,19 @@ body {
 /*------------------------------------about me image*/
 .wink {
     float:left;
-    margin: 10px 10px 10px 10px;
-    padding: .25rem;
-    background-color: white;
-    border: 1px solid #cccccc;
-    border-radius: .25rem;
-    max-width: 100%;
-    height: auto;
+    margin-right: 20px;
+    width: 200px;
     
+}
+/*----------------------------------------portfolio image*/
+.port-img {
+    width: 200px;
+    margin: 40px 40px 40px 40px;
 }
 
 /*-----------------------------------about me*/
 .aboot {
     margin: 10px 10px 10px 10px;
-    
 }
 
 /*-------------------------------------footer*/
