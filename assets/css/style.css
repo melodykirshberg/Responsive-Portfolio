@@ -28,9 +28,8 @@ h3 {
     background-color: #4aaaa5;
     text-align: center;
     height: 50px;
-    bottom: 110px;
+    bottom: 72px;
     width: 100%;
-    margin-left: 40px;
 }
 
 /*-----------------------------------------------------------body*/
@@ -80,6 +79,13 @@ body {
 .aboot {
     margin: 10px 10px 10px 10px;
 }
+
+
+.img-thumbnail {
+    width: 100%;
+}
+
+
 
 /*-------------------------------------footer*/
 
