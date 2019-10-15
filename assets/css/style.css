@@ -1,4 +1,5 @@
 /*------------------------------------------------------nav bar*/
+
 .navbar-bran {
     background-color: #4aaaa5;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -8,13 +9,8 @@
     padding: 10px 20px 10px 20px;
 }
 
-.sticky-top {
-
-    width: fit-content;
-}
-
-
 /*---------------------------------------------------------header*/
+
 h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: #4aaaa5;
@@ -24,6 +20,7 @@ h1 {
 }
 
 /*------------------------------------------------header 3*/
+
 h3 {
     position: relative;
     color: white;
@@ -36,11 +33,13 @@ h3 {
 }
 
 /*-----------------------------------------------------------body*/
+
 body {
     background-image: url("../images/back.png");
 }
 
 /*-----------------------------------------------------------form*/
+
 .form {
     display: block;
     margin: 5px 5px 5px 5px'
@@ -48,6 +47,7 @@ body {
 }
 
 /*--------------------------------------background and border for main section*/
+
 .m-sec {
     font-family: Arial, Helvetica, sans-serif;
     border: 2px #dddddd solid;
@@ -57,26 +57,27 @@ body {
     padding: 10px 20px 10px 30px;
 }
 
-
 /*----------------------------------------portfolio image*/
+
 .port-img {
     width: 100%;
     margin: 40px 40px 40px 40px;
 }
 
 /*-----------------------------------about me*/
+
 .aboot {
     margin: 10px 10px 10px 20px;
 }
 
 /*----------------------------------------img thumbnail*/
+
 .img-thumbnail {
     width: 100%;
 }
 
-
-
 /*-------------------------------------footer*/
+
 .foot {
     width: 100%;
     height: 50px;
@@ -88,20 +89,21 @@ body {
 }
 
 /*-----------------------------------------windsor id so it can fit the page*/
+
 #wink {
     width: 200px;
     margin: 10px 20px 5px 0;
 }
 
 /*-----------------------------------------media*/
+
 @media screen and (max-width: 992px) {
-   
     body {
         width: 90%;
     }
     .m-sec {
         width: 90%;
-        height: 100%;
+        height: auto;
         margin: auto;
         margin-top: 10px;
         padding: 10px 20px 10px 30px;
@@ -109,21 +111,20 @@ body {
     .navbar-bran {
         margin: 0;
     }
-
-    .port-img{
+    .port-img {
         width: 80%;
         height: 1000px;
     }
 }
 
-
 @media screen and (max-width: 768px) {
-    .port-img{
+    .port-img {
         width: 80%;
-        height: 1000px;
+        height: fit-content;
     }
-   
-
+    .m-sec {
+        height: auto;
+    }
     * {
         box-sizing: inherit;
     }
