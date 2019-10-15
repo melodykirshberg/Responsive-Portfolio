@@ -10,7 +10,6 @@
 
 
 /*---------------------------------------------------------header*/
-
 h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: #4aaaa5;
@@ -20,7 +19,6 @@ h1 {
 }
 
 /*------------------------------------------------header 3*/
-
 h3 {
     position: relative;
     color: white;
@@ -33,13 +31,11 @@ h3 {
 }
 
 /*-----------------------------------------------------------body*/
-
 body {
     background-image: url("../images/back.png");
 }
 
 /*-----------------------------------------------------------form*/
-
 .form {
     display: block;
     margin: 5px 5px 5px 5px'
@@ -47,7 +43,6 @@ body {
 }
 
 /*--------------------------------------background and border for main section*/
-
 .m-sec {
     font-family: Arial, Helvetica, sans-serif;
     border: 2px #dddddd solid;
@@ -58,7 +53,6 @@ body {
 }
 
 /*------------------------------------about me image*/
-
 .wink {
     padding: .25rem;
     background-color: white;
@@ -68,19 +62,17 @@ body {
 }
 
 /*----------------------------------------portfolio image*/
-
 .port-img {
     width: 100%;
     margin: 40px 40px 40px 40px;
 }
 
 /*-----------------------------------about me*/
-
 .aboot {
     margin: 10px 10px 10px 10px;
 }
 
-
+/*----------------------------------------img thumbnail*/
 .img-thumbnail {
     width: 100%;
 }
@@ -88,7 +80,6 @@ body {
 
 
 /*-------------------------------------footer*/
-
 .foot {
     width: 100%;
     height: 50px;
@@ -99,6 +90,7 @@ body {
     margin-top: 100px;
 }
 
+/*-----------------------------------------media*/
 @media screen and (max-width: 992px) {
    
     body {
