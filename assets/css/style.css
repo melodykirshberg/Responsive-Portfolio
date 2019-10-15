@@ -1,10 +1,4 @@
 /*------------------------------------------------------nav bar*/
-
-.nav {
-    font-family: Arial, Helvetica, sans-serif;
-    position: fixed;
-}
-
 .navbar-bran {
     background-color: #4aaaa5;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -12,14 +6,6 @@
     font-size: 25px;
     margin: 0 6.5in 0 2.5in;
     padding: 10px 20px 10px 20px;
-}
-
-.nav-item {
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-.nav-link {
-    font-family: Arial, Helvetica, sans-serif;
 }
 
 
@@ -43,7 +29,7 @@ h3 {
     text-align: center;
     height: 50px;
     bottom: 110px;
-    width: 200px;
+    width: 100%;
     margin-left: 40px;
 }
 
@@ -85,7 +71,7 @@ body {
 /*----------------------------------------portfolio image*/
 
 .port-img {
-    width: 200px;
+    width: 100%;
     margin: 40px 40px 40px 40px;
 }
 
@@ -108,23 +94,37 @@ body {
 }
 
 @media screen and (max-width: 992px) {
+   
+    body {
+        width: 90%;
+    }
     .m-sec {
         width: 90%;
         margin: auto;
         margin-top: 10px;
-        /*padding: 10px 20px 10px 30px;*/
+        padding: 10px 20px 10px 30px;
     }
     .navbar-bran {
         margin: 0;
     }
+
+    .port-img{
+        width: 80%;
+        height: 1000px;
+    }
 }
 
 
-@media screen and (max-width: px) {
+@media screen and (max-width: 768px) {
+    .port-img{
+        width: 80%;
+        height: 1000px;
+    }
     .m-sec {
-       
-        /*padding: 10px 20px 10px 30px;*/
+    width: 80%;
+    height: 1000px;
     }
 
-
-}
+    * {
+        box-sizing: inherit;
+    }
