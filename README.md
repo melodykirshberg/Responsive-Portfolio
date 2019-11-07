@@ -11,7 +11,7 @@ A mobile responsive portfolio to showcase my coding work and let visitors know a
 In your terminal type:
 ```git clone https://verlitas.github.io/Responsive-Portfolio/```
 * Open in Visual Studio to build and run.
-For further instructions, visit https://help.github.com.
+* For further instructions, visit https://help.github.com.
 
 ## Screenshot
 ![alt text](screenshots/resport1.png "Screenshot")
