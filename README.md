@@ -4,8 +4,8 @@ A mobile responsive portfolio to showcase my coding work and let visitors know a
 
 ## Table of Contents
 * [Installation](#installation)
-* [Screenshot](#screenshot)
 * [Technologies-Libraries](#technologies-libraries)
+* [Demo](#demo)
 * [Credits](#credits)
 
 ## Installation
@@ -17,10 +17,13 @@ In your terminal type:
 ## Technologies-Libraries
 CSS - HTML - Bootstrap
 
-## Screenshot
+## Demo
 ![alt text](screenshots/resport1.png "Screenshot")
 ![alt text](screenshots/resport2.png "Screenshot")
 ![alt text](screenshots/resport3.png "Screenshot")
 
+Live link: https://verlitas.github.io/Responsive-Portfolio/
+
 ## Credits
+[Melody Kirshberg](https://github.com/verlitas)
 [UABootCamp](https://bootcamp.ce.arizona.edu/coding/)
