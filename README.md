@@ -25,5 +25,5 @@ CSS - HTML - Bootstrap
 Live link: https://verlitas.github.io/Responsive-Portfolio/
 
 ## Credits
-[Melody Kirshberg](https://github.com/verlitas)
+[Melody Kirshberg](https://github.com/verlitas)  
 [UABootCamp](https://bootcamp.ce.arizona.edu/coding/)
