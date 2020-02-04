@@ -15,7 +15,7 @@ In your terminal type:
 * For further instructions, visit https://help.github.com.
 
 ## Technologies-Libraries
-CSS - HTML
+CSS - HTML - Bootstrap
 
 ## Screenshot
 ![alt text](screenshots/resport1.png "Screenshot")
