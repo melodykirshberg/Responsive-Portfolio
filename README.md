@@ -14,9 +14,7 @@ In your terminal type:
 For further instructions, visit https://help.github.com.
 
 ## Screenshot
-![alt text](resport1.png "Screenshot")
-![alt text](resport2.png "Screenshot")
-![alt text](resport3.png "Screenshot")
+![alt text](resport.gif "Demo")
 
 ## Credits
 [UABootCamp](https://bootcamp.ce.arizona.edu/coding/)
