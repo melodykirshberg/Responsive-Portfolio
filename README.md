@@ -18,7 +18,7 @@ In your terminal type:
 CSS - HTML - Bootstrap
 
 ## Demo
-![alt text](resport.gif "Demo")
+![alt text](/screenshots/resport.gif "Demo")
 
 Live link: https://verlitas.github.io/Responsive-Portfolio/
 
